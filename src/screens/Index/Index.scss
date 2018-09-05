@@ -1,0 +1,33 @@
+.indexScreen {
+    text-align: center;
+    height: 100vh;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    background-size: cover;
+    flex-direction: column;
+}
+
+.indexLogo {
+    flex: 1;
+    padding-top: 45px;
+    img {
+
+    }
+}
+
+
+.searchWrapper {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    text-align: left;
+    flex: 2;
+    
+    h1 {
+        font-size: 40px;
+        line-height: 1;
+        margin-bottom: 30px;
+    }
+}
